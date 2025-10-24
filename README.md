@@ -21,8 +21,9 @@ Assest and designs were provided by Frontend Mentor.
 
 ### Links
 
-- Solution URL:[qr-code-component-challenge](https://github.com/rayirving/qr-code-component-challenge)
-- Challenge URL:[Frontend Mentor: QR code component](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3cfe/start)
+- Hosted URL: [QR Code Component Page](https://rayirving.github.io/qr-code-component-challenge/)
+- Solution URL: [QR Code Component Code](https://github.com/rayirving/qr-code-component-challenge)
+- Challenge URL: [Frontend Mentor: QR code component](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3cfe/start)
 
 ## My process
 
@@ -50,6 +51,6 @@ I would also like to experiment more with the responsive layouts and sizes (such
 
 ## Author
 
-- E-mail - [Ray Irving](rayirving.dev@gmail.com)
+- E-mail - [rayirving.dev@gmail.com]
 - Github - [@rayirving](https://github.com/rayirving)
 - Frontend Mentor - [@rayirving](https://www.frontendmentor.io/profile/rayirving)
